@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Arthur! Seja bem vindo ao meu Github😉<br><br>Alguns conhecimentos🧠:<br>IDEs: Visual Studio Code, Intellij, Android Studio;<br>Conceitos: APIs REST, Responsividade e UI/UX Design;<br>Linguagens de Programação: Python, Java, JavaScript e Kotlin;<br>Tecnologias Web: HTML5, CSS3, React, Node.js e Tailwind CSS;<br>Banco de Dados: SQL Server;<br>Controle de Versão: Git e GitHub;<br>Containers: Docker;<br>Design e Prototipação: Figma e Photoshop;<br>Sistema Operacional: Windows;</h2>
+<h2 align="left">Seja bem vindo ao meu Github😉<br><br>Alguns conhecimentos🧠:<br>IDEs: Visual Studio Code, Intellij, Android Studio;<br>Conceitos: APIs REST, Responsividade e UI/UX Design;<br>Linguagens de Programação: Python, Java, JavaScript e Kotlin;<br>Tecnologias Web: HTML5, CSS3, React, Node.js e Tailwind CSS;<br>Banco de Dados: SQL Server;<br>Controle de Versão: Git e GitHub;<br>Containers: Docker;<br>Design e Prototipação: Figma e Photoshop;<br>Sistema Operacional: Windows;</h2>
 
 ###
 
